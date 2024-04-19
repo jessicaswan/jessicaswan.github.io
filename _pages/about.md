@@ -1,16 +1,15 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+permalink: https://scripps.ucsd.edu/profiles/j4wan
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
   image: wan_headshot_2023.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD candidate</p>
-    <p>j4wan@ucsd.edu</p>
+    <p>Climate science PhD candidate</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
