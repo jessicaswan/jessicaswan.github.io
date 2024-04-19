@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: https://scripps.ucsd.edu/profiles/j4wan
 subtitle: <a href='#'>Affiliations</a>
 
 profile:
