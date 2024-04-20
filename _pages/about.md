@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Affiliations](https://scripps.ucsd.edu/profiles/j4wan)</a>
+subtitle: <a href='https://scripps.ucsd.edu/profiles/j4wan'>Affiliations</a>
 
 profile:
   align: right
