@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://scripps.ucsd.edu/profiles/j4wan'>Affiliations</a>
+subtitle: <a href='https://scripps.ucsd.edu/profiles/j4wan'>Scripps Institution of Oceanography, UC San Diego, La Jolla, CA</a>
 
 profile:
   align: right
@@ -16,8 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a climate science PhD candidate in [Dr. Kate Ricke's](https://katericke.com/#research) lab at Scripps Institution of Oceanography, University of California San Diego. My primary research seeks to understand how climate geoengineering proposals might alleviate regional climate change impacts. Specifically, I study a type of geoengineering called marine cloud brightening, which cools the planet by adding sea salt particles to the lower atmosphere to form brighter marine clouds. I use Earth system models to simulate how different scenarios of marine cloud brightening could be leveraged for climate risk mitigation. As temperatures continue to rise, research on climate geoengineering is becoming increasingly important as one proposal in the portfolio of innovative climate solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a [National Defense Science and Engineering Graduate (NDSEG) fellow](https://ndseg.org/2022-class-fellows) and an [Achievement Rewards for College Scientsts (ARCS) scholar](https://san-diego.arcsfoundation.org/scholars/2023-2024-arcs-scholars).
