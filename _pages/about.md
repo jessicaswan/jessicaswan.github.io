@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>PhD candidate</p>
     <p>j4wan(at)uscd.edu</p>
-    <p><em>she/her/<em></p>
+    <p><em>she/her</em></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
