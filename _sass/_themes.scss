@@ -65,7 +65,7 @@ html[data-theme="dark"] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #{$grey-color};
+  --global-divider-color: lighten($grey-color, 20%);;
   --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;
