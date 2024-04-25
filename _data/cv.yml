@@ -5,17 +5,17 @@
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2020 - Present
       description:
-        - GPA: 3.97
+        - <b>GPA:</b> 3.97
     - title: MS Oceanography
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2021
       description:
-        - GPA: 3.97
+        - <b>GPA:</b> 3.97
     - title: BS Environment & Sustainability with Distinction in Research
       institution: Cornell University
       year: 2020
       description:
-        - GPA: 4.06
+        - <b>GPA:</b> 4.06
 
         
 - title: Research experience
@@ -25,25 +25,25 @@
       institution: Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA
       year: 2020 - Present
       description:
-        - Advisor: Dr. Katharine Ricke
+        - <b>Advisor:</b> Dr. Katharine Ricke
         - Modeling the far-reaching climate responses of regional geoengineering proposals
     - title: Undergraduate Student Researcher
       institution: Department of Earth and Atmospheric Science, Cornell University, Ithaca, NY
       year: 2017 - 2020
       description:
-        - Advisors: Dr. Douglas Hamilton and Dr. Natalie Mahowald 
+        - <b>Advisors:</b> Dr. Douglas Hamilton and Dr. Natalie Mahowald 
         - Improving Earth System Model representations of fire and dust aerosols for estimating climate 
     - title: Ecosystem Modeling Intern
       institution: Gulf of Maine Research Institute, Portland, ME
       year: 2018
       description:
-        - Advisor: Dr. Katherine Mills
+        - <b>Advisor:</b> Dr. Katherine Mills
         - Investigating the ecological impacts for diadromous fish populations to rising temperature 
     - title: Undergraduate Student Researcher
       institution: Department of Geology, Occidental College, Los Angeles, CA
       year: 2017
       description:
-        - Advisor: Dr. Ann Blythe
+        - <b>Advisor:</b> Dr. Ann Blythe
         - Analyzing apatite fission-tracks for low-temperature thermochronology applications
         
 
