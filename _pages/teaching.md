@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: overview of my teaching and mentoring experiences.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**SIO 60: Experiences in Oceanic and Atmospheric Sciences**, UC San Diego. September 2023 - December 2023.
+- Teaching assistant for undergraduate laboratory course on the fundamental principles of oceanic and atmospheric science. I assisted with lab experiments, graded assignments, held weekly office hours, organized the Canvas webpage, and helped supervise a weekend cruise aboard the R/V Sproul.
 
-Organize your courses by years, topics, or universities, however you like!
+**GEOG 360: Human Dimensions of Climate Change**, San Diego State University. September 2023.
+- Guest lecturer for undergraduate course.
+
+**ESYS 102: Solid and Fluid Earth**, UC San Diego. March 2023.
+- Guest lecturer for undergraduate course.
+
+**Undergraduate mentees**  
+- Madison Beltran through the California Louis Stoke Alliance for Minority Participation (CAMP) program (2023 – Present)
+- Sarina Ghadiali (2024 – Present)
