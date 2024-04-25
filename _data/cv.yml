@@ -5,79 +5,84 @@
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2020 - Present
       description:
-        - Modeling the far-reaching climate responses of regional geoengineering proposals 
+        - GPA: 3.97
     - title: MS Oceanography
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2021
+      description:
+        - GPA: 3.97
     - title: BS Environment & Sustainability with Distinction in Research
       institution: Cornell University
       year: 2020
       description:
+        - GPA: 4.06
+
+        
+- title: Research experience
+  type: time_table
+  contents:
+    - title: Graduate Student Researcher
+      institution: Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA
+      year: 2020 - Present
+      description:
+        - Advisor: Dr. Katharine Ricke
+        - Modeling the far-reaching climate responses of regional geoengineering proposals
+    - title: Undergraduate Student Researcher
+      institution: Department of Earth and Atmospheric Science, Cornell University, Ithaca, NY
+      year: 2017 - 2020
+      description:
+        - Advisors: Dr. Douglas Hamilton and Dr. Natalie Mahowald 
         - Improving Earth System Model representations of fire and dust aerosols for estimating climate 
-- title: Experience
+    - title: Ecosystem Modeling Intern
+      institution: Gulf of Maine Research Institute, Portland, ME
+      year: 2018
+      description:
+        - Advisor: Dr. Katherine Mills
+        - Investigating the ecological impacts for diadromous fish populations to rising temperature 
+    - title: Undergraduate Student Researcher
+      institution: Department of Geology, Occidental College, Los Angeles, CA
+      year: 2017
+      description:
+        - Advisor: Dr. Ann Blythe
+        - Analyzing apatite fission-tracks for low-temperature thermochronology applications
+        
+
+- title: Awards & Fellowships
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Achievement Rewards for College Scientists (ARCS) Foundation Fellowship
+        - Scripps Student Symposium Outstanding Presenter Award
+    - year: 2022
       items:
-        - Max Planck Medal
+        - National Defense Science and Engineering Graduate (NDSEG) Fellowship
+    - year: 2020
+      items:
+        - Scripps Fellowship  
 
-- title: Academic Interests
+
+- title: Service
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Peer review
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Geophysical Research Letters
+    - title: Conference & workshop organization
       items:
-        - Description 1.
-        - Description 2.
+        - Early career convener for AGU Fall Meeting, GC100. Solar Radiation Modification for Climate Intervention (2023)
+        - Co-organizer for Scripps Institution of Oceanography Marine Geoengineering Workshop (2023) 
+    - title: Committee memberships & outreach
+      items:
+        - Mentor and leadership for SIO Applicant Support and Knowledge-base program
+        - Mentor and leadership for Climate Science Curricular Group Peer Mentor Program
+        - Committee member for joint SIO/HDSI faculty hire
+        - Student host for SIO Open House
+        - Assistant coach for UC San Diego women’s club ultimate frisbee team
 
-- title: Other Interests
+        
+- title: Other Qualifications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Computer skills:</u> Python, R, Linux commands, MATLAB (limited proficiency), Community Earth System Model (CESM; versions 1 and 2), Adobe Illustrator and Photoshop.
+    - <u>Languages:</u> English (native), Dutch (proficiency in reading, writing, and speaking), Spanish (proficiency in reading, writing, and speaking).
