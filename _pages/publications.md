@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: On-going and published work.
+description: submitted and published work.
 nav: true
 nav_order: 2
 ---
