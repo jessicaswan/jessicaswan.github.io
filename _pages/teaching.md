@@ -17,5 +17,5 @@ nav_order: 6
 - Guest lecturer for undergraduate course.
 
 **Undergraduate mentees**  
-- Madison Beltran through the California Louis Stoke Alliance for Minority Participation (CAMP) program (2023 – Present)
 - Sarina Ghadiali (2024 – Present)
+- Madison Beltran through the California Louis Stoke Alliance for Minority Participation (CAMP) program (2023 – Present)
