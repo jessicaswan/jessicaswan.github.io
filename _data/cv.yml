@@ -4,15 +4,18 @@
     - title: PhD Oceanography
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2020 - Present
-      description: <b>GPA:</b> 3.97
+      description: 
+        - <b>GPA:</b> 3.97
     - title: MS Oceanography
       institution: Scripps Institution of Oceanography, University of California San Diego
       year: 2021
-      description: <b>GPA:</b> 3.97
+      description:
+        - <b>GPA:</b> 3.97
     - title: BS Environment & Sustainability with Distinction in Research
       institution: Cornell University
       year: 2020
-      description: <b>GPA:</b> 4.06
+      description:
+        - <b>GPA:</b> 4.06
 
         
 - title: Research experience
