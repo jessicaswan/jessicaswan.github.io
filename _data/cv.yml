@@ -1,9 +1,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Earth Sciences
+    - title: PhD Oceanography
       institution: Scripps Institution of Oceanography, University of California San Diego
-      year: 2025
+      year: 2020 - Present
       description:
         - <b>GPA:</b> 3.97
     - title: MS Oceanography
@@ -23,10 +23,10 @@
   contents:
     - title: Graduate Student Researcher
       institution: Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA
-      year: 2020 - 2025
+      year: 2020 - Present
       description:
         - <b>Advisor:</b> Dr. Katharine Ricke
-        - <b>Committee:</b> Drs. Jennifer Burney, Simone Tilmes, Lynn Russell, Duncan Watson-Parris, Shang-Ping Xie
+        - <b>Committee:</b> Drs. Jennifer Burney, Simone Tilmes, Duncan Watson-Parris, Shang-Ping Xie
         - Modeling the far-reaching climate responses of regional geoengineering proposals
     - title: Undergraduate Student Researcher
       institution: Department of Earth and Atmospheric Science, Cornell University, Ithaca, NY
@@ -51,9 +51,6 @@
 - title: Awards & Fellowships
   type: time_table
   contents:
-    - year: 2025
-      items:
-        - 17th Symposium on Aerosol Cloud Climate Interactions, AMS 105th Annual Meeting Honorable Mention for Best Student Oral Presentation
     - year: 2024
       items:
         - NDSEG 5th Annual Conference Honorable Mention for Presentation in Oceanography
@@ -74,7 +71,7 @@
   contents:
     - title: Peer review
       items:
-        - Earth's Future, Geophysical Research Letters, Nature Communications
+        - Geophysical Research Letters, Nature Communications
     - title: Conference & workshop organization
       items:
         - Co-organizer for Solar Geoengineering Scenarios Development Workshop in India in collaboration with The Energy and Resources Institute (TERI) and the Alliance for Just Deliberation on Solar Geoengineering (DSG) (December 2024, upcoming)
