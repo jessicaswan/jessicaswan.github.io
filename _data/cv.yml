@@ -15,11 +15,11 @@
 - title: Research experience
   type: time_table
   contents:
-    - title: Postdoctoral Research Associate
+    - title: Postdoctoral Research Fellow
       institution: Climate Systems Engineering initiative, The University of Chicago, Chicago, IL
       year: 2025 - Present
       description:
-        - <b>Mentor:</b> Dr. Pedram Hassanzadeh
+        - <b>Mentors:</b> Drs. Pedram Hassanzadeh and David Keith
         - Constraining the Effects of Climate Engineering on Weather Extremes using Artificial Intelligence Emulators
     - title: Graduate Student Researcher
       institution: Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA
@@ -51,6 +51,9 @@
 - title: Awards & Fellowships
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - UChicago Climate Systems Engineering initiative Postdoctoral Fellowship
     - year: 2025
       items:
         - 17th Symposium on Aerosol Cloud Climate Interactions, AMS 105th Annual Meeting Honorable Mention for Best Student Oral Presentation
@@ -87,10 +90,3 @@
         - Committee member for joint SIO/HDSI faculty hire
         - Student host for SIO Open House
         - Assistant coach for UC San Diego women’s club ultimate frisbee team
-
-        
-- title: Other Qualifications
-  type: list
-  contents:
-    - <u>Computer skills:</u> Python, R, Linux commands, MATLAB (limited proficiency), Community Earth System Model (CESM; versions 1 and 2), Adobe Illustrator and Photoshop.
-    - <u>Languages:</u> English (native), Dutch (proficiency in reading, writing, and speaking), Spanish (proficiency in reading, writing, and speaking).
