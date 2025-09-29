@@ -9,7 +9,7 @@ profile:
   image: wan_headshot_2023.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoctoral Research Associate</p>
+    <p>Postdoctoral Research Fellow</p>
     <p>jesswan(at)uchicago.edu</p>
     <p><em>she/her</em></p>
 
