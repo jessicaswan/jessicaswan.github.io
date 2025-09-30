@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Successfully defends PhD entitled Modeling the far-reaching climate responses of regional geoengineering proposals.
+Successfully defends PhD entitled [Modeling the far-reaching climate responses of regional geoengineering proposals](https://escholarship.org/uc/item/52k6b1kq).
 
 
