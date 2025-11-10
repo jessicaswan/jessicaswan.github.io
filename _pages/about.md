@@ -6,7 +6,7 @@ subtitle: <a href='https://climateengineering.uchicago.edu/researchers/'>Climate
 
 profile:
   align: right
-  image: Jessica_wan_CSEi.jpg
+  image: Jessica_Wan_CSEi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoctoral Research Fellow</p>
