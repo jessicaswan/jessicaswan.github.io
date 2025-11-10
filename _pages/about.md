@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://climate.uchicago.edu/scholars/?_scholar_types_tabs=postdoctoral-scholar'>Climate Systems Engineering initiative, The University of Chicago, Chicago, IL</a>
+subtitle: <a href='https://climateengineering.uchicago.edu/researchers/'>Climate Systems Engineering initiative, The University of Chicago, Chicago, IL</a>
 
 profile:
   align: right
-  image: wan_headshot_2023.jpg
+  image: Jessica_wan_CSEi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoctoral Research Fellow</p>
