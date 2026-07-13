@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Fellow in the Climate Systems Engineering iniatitve (CSEi) at The University of Chicago. 
+I am a Postdoctoral Fellow in the Climate Systems Engineering iniatitve (CSEi) at The University of Chicago. 
 
 <b>My research combines different modeling tools ranging from Earth System Models to AI emulators with the primary goal of understanding how climate geoengineering proposals might reduce regional climate change impacts.</b> While my formal training is in climate science, I have worked and collaborated on interdisciplinary topics including climate-driven human migration, integrating physical and social science datasets, and the economic and marine ecosystem impacts of marine cloud brightening. 
 
