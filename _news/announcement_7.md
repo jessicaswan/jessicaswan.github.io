@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Gives [MEERTALK](https://www.meer.org/resources/meertalk-august-2024) on Marine Cloud Brightening in a Changing Climate.
+Gives [MEERTALK](https://www.youtube.com/watch?v=sVNFZ0jykmg) on Marine Cloud Brightening in a Changing Climate.
 
 
